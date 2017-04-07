@@ -12,7 +12,7 @@ Android蓝牙打印机，带你真正了解各种打印格式。
 
 （1）手机通过蓝牙连接打印机
 
-（2）从BluetoothSocket中getOutputStream(), 然后设置一下即可，在PrintUtils中设置以下代码即可
+（2）从BluetoothSocket中getOutputStream()获取outputStream, 然后设置一下即可，在PrintUtils中设置以下代码即可
 
 ```
     private static OutputStream outputStream = null;
