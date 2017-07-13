@@ -29,7 +29,7 @@ PrintUtils.selectCommand(PrintUtils.RESET);
 PrintUtils.selectCommand(PrintUtils.LINE_SPACING_DEFAULT);
 PrintUtils.selectCommand(PrintUtils.ALIGN_CENTER);
 PrintUtils.printText("美食餐厅\n\n");
-PrintUtils.selectCommand(PrintUtils.DOUBLE_HIGHT_WIDTH);
+PrintUtils.selectCommand(PrintUtils.DOUBLE_HEIGHT_WIDTH);
 PrintUtils.printText("桌号：1号桌\n\n");
 PrintUtils.selectCommand(PrintUtils.NORMAL);
 PrintUtils.selectCommand(PrintUtils.ALIGN_LEFT);
